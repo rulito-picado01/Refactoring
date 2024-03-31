@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11acdaf4-8116-45d4-873e-0efe68bd57df" name="Changes" comment="refactor ejercicio 3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="unaposible-resolucion" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eKoRv399EDgYDLlLmBTLeqTAdb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.oop2.refactoring.collecting.Main.executor": "Debug",
+    "Application.oop2.refactoring.collecting.ejemplo2.Main.executor": "Run",
+    "Application.oop2.tp3.ejercicio4.Main.executor": "Run",
+    "JUnit.RecaudacionTest.executor": "Debug",
+    "JUnit.ReporteDeGastosTest.executor": "Debug",
+    "JUnit.ReporteDeGastosTest.gastosDesayunoMayorA1000.executor": "Run",
+    "JUnit.ReporteDeGastosTest.gastosMultiples.executor": "Debug",
+    "JUnit.ReporteDeGastosTest.test01.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "extract.method.default.visibility": "public",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/enrique/unrn/oop2/workspace/refactoring/src/main/java/oop2/refactoring/collecting/ejemplo2",
+    "onboarding.tips.debug.path": "/home/enrique/unrn/oop2/workspace/refactoring/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop2.refactoring.ifs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/oop2/refactoring/collecting/ejemplo2" />
+      <recent name="$PROJECT_DIR$/src/main/java/oop2/refactoring/collecting" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/oop2/tp3/ejercicio2" />
+      <recent name="$PROJECT_DIR$/src/main/java/oop2/tp3/ejercicio4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oop2.refactoring.parametros.salida" />
+      <recent name="oop2.refactoring.numerosmagicos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ReporteDeGastosTest">
+    <configuration name="oop2.refactoring.collecting.ejemplo2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop2.refactoring.collecting.ejemplo2.Main" />
+      <module name="oop2-refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.refactoring.collecting.ejemplo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReporteDeGastosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop2-refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.tp3.ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oop2.tp3.ejercicio3" />
+      <option name="MAIN_CLASS_NAME" value="oop2.tp3.ejercicio3.ReporteDeGastosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReporteDeGastosTest.gastosDesayunoMayorA1000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop2-refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.tp3.ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oop2.tp3.ejercicio3" />
+      <option name="MAIN_CLASS_NAME" value="oop2.tp3.ejercicio3.ReporteDeGastosTest" />
+      <option name="METHOD_NAME" value="gastosDesayunoMayorA1000" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReporteDeGastosTest.gastosMultiples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop2-refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.tp3.ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oop2.tp3.ejercicio3" />
+      <option name="MAIN_CLASS_NAME" value="oop2.tp3.ejercicio3.ReporteDeGastosTest" />
+      <option name="METHOD_NAME" value="gastosMultiples" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReporteDeGastosTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop2-refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.tp3.ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oop2.tp3.ejercicio3" />
+      <option name="MAIN_CLASS_NAME" value="oop2.tp3.ejercicio3.ReporteDeGastosTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReporteDeGastosTest.test01" />
+        <item itemvalue="JUnit.ReporteDeGastosTest.gastosMultiples" />
+        <item itemvalue="JUnit.ReporteDeGastosTest.gastosDesayunoMayorA1000" />
+        <item itemvalue="JUnit.ReporteDeGastosTest" />
+        <item itemvalue="Application.oop2.refactoring.collecting.ejemplo2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11acdaf4-8116-45d4-873e-0efe68bd57df" name="Changes" comment="" />
+      <created>1711662627522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711662627522</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711825044697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711825044697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711826559774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711826559774</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711826616624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711826616624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711885643899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711885643899</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711885808645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711885808645</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Un posible solucion al ejercicio 2">
+      <option name="closed" value="true" />
+      <created>1711885849540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711885849540</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711886223193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711886223194</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711893905743</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711893905743</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711897897723</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711897897723</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711906482898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711906482898</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711910960137</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711910960137</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refactor ejercicio 3">
+      <option name="closed" value="true" />
+      <created>1711911021122</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711911021122</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Un posible solucion al ejercicio 2" />
+    <MESSAGE value="first comm" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="refactor ejercicio 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor ejercicio 3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/refactoring$ReporteDeGastosTest.ic" NAME="ReporteDeGastosTest Coverage Results" MODIFIED="1711895024875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>oop2.tp3.ejercicio3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/refactoring$ReporteDeGastosTest_gastosDesayunoMayorA1000.ic" NAME="ReporteDeGastosTest.gastosDesayunoMayorA1000 Coverage Results" MODIFIED="1711907418060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>oop2.tp3.ejercicio3.*</FILTER>
+    </SUITE>
+  </component>
+</project>
