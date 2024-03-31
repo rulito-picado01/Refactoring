@@ -27,6 +27,9 @@ para refactorizar.
     - Escribamos tests. Hagamos lo mínimo para que nos permita testear. Por ejemplo, no usar *sysout*, retornar un
       *String* con e reporte. Esto nos permite asertar contra el valor de retorno.
     - Incorporemos la jerarquía de gastos para utilizar polimorfismo.
+    - Apliquemos polimorfismo para eliminar el switch.
+    - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para el calculo del monto de comida.
+    - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para la marca de exceso.
 - Ejercicio 4: Removamos el uso de *null*.
 
 El ejercicio 2 fue tomado de [lamchau](https://github.com/lamchau/refactoring-exercise).
