@@ -1,5 +1,24 @@
 # Objetos 2 - Intro Refactoring
 
+Escribamos código que otro desarrollador pueda entender! Refactorizamos para:
+- Simplificar el Código
+- Remover Código Duplicado
+- Mejorar el Diseño
+- Transformar algo procedural en OO
+- Reducir acoplamiento
+- Mejorar Cohesión
+- Separar en capas
+- Hacerlo mas expresivo/legible (nombrar el código)
+- Remover código muerto
+
+Todo esto puedo hacerse con seguridad únicamente si tengo buena covertura de tests.
+
+Algunos links de interes:
+
+- [Refactoring Catalog](https://refactoring.com/catalog/)
+- [Smells](https://sourcemaking.com/refactoring/smells)
+- [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
+
 ## Introducción
 
 - Extract Method: Dándole semántica a conjuntos de colaboraciones
