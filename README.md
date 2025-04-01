@@ -1,6 +1,7 @@
 # Objetos 2 - Intro Refactoring
 
 Escribamos código que otro desarrollador pueda entender! Refactorizamos para:
+
 - Simplificar el Código
 - Remover Código Duplicado
 - Mejorar el Diseño
@@ -29,6 +30,10 @@ Algunos links de interes:
     - De salida: No usamos más *null*. Optional o Listas vacias.
 - Collecting parameters: Filtrando colleciones polimórficas.
 
+## Refactors Automatizados (IntelliJ o Eclipse)
+
+- Ver más en https://www.youtube.com/live/VIofGx85kTY (Victor Rentea)
+
 ## Ejercicios
 
 Algunos ejercicios tienen tests y otros hay que escribirlos. En dos ejercicios propongo los pasos que deben ejecutar
@@ -47,7 +52,8 @@ para refactorizar.
       *String* con e reporte. Esto nos permite asertar contra el valor de retorno.
     - Incorporemos la jerarquía de gastos para utilizar polimorfismo.
     - Apliquemos polimorfismo para eliminar el switch.
-    - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para el calculo del monto de comida.
+    - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para el calculo del monto de
+      comida.
     - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para la marca de exceso.
 - Ejercicio 4: Removamos el uso de *null*.
 
