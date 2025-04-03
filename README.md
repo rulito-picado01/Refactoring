@@ -33,6 +33,7 @@ Algunos links de interes:
 ## Refactors Automatizados (IntelliJ o Eclipse)
 
 - Ver más en https://www.youtube.com/live/VIofGx85kTY (Victor Rentea)
+  -- Minuto 40:19 sobre "Encapsulate Field". Getter/Setter no es OO.
 
 ## Ejercicios
 
