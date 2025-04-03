@@ -1,5 +1,8 @@
 package oop2.refactoring.ifs;
 
+// Quick Fixes:
+// "Invert if condition"
+// "Remove redundant else"
 public class Dni {
     private String numeroDni;
 

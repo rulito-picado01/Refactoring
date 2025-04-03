@@ -26,7 +26,7 @@ Algunos links de interes:
 - Números mágicos: Dándole semántica a las constantes
 - Simplificando condicionales: Un único nivel de indentación. *else* no es necesario.
 - Parámetros
-    - De entrada: programación defensiva
+    - De entrada: Objetos Válidos.
     - De salida: No usamos más *null*. Optional o Listas vacias.
 - Collecting parameters: Filtrando colleciones polimórficas.
 

@@ -3,6 +3,8 @@ package oop2.refactoring.ifs;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
+//Quick Fixes
+//"Remove redundant else"
 public class Viaje {
     private static final int COEFICIENTE_VIAJE_NOCTURNO = 5;
     private static final int COEFICIENTE_VIAJE_DIURNO = 3;

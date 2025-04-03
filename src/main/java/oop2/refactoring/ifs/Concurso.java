@@ -2,8 +2,12 @@ package oop2.refactoring.ifs;
 
 import java.util.List;
 
+//Quick Fixes
+// "Invert if condition"
+//"Remove redundant else"
 public class Concurso {
     private List<Participante> participantes;
+
     public void agregarParticipante(Participante participante) throws Exception {
         if (esFechaValida()) {
             this.participantes.add(participante);
