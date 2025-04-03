@@ -49,7 +49,7 @@ para refactorizar.
     - Removamos las constantes duplicadas.
 - Ejercicio 3: Utilicemos polimorfismo y collecting parameters.
     - Escribamos tests. Hagamos lo mínimo para que nos permita testear. Por ejemplo, no usar *sysout*, retornar un
-      *String* con e reporte. Esto nos permite asertar contra el valor de retorno.
+      *String* con el reporte. Esto nos permite asertar contra el valor de retorno.
     - Incorporemos la jerarquía de gastos para utilizar polimorfismo.
     - Apliquemos polimorfismo para eliminar el switch.
     - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para el calculo del monto de
