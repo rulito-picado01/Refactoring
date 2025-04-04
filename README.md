@@ -1,5 +1,7 @@
 # Objetos 2 - Intro Refactoring
 
+Mejorando el diseño y la legibilidad sin modificar su funcionalidad.
+
 Escribamos código que otro desarrollador pueda entender! Refactorizamos para:
 
 - Simplificar el Código
