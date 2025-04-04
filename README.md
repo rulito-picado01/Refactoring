@@ -42,22 +42,22 @@ Algunos links de interes:
 Algunos ejercicios tienen tests y otros hay que escribirlos. En dos ejercicios propongo los pasos que deben ejecutar
 para refactorizar.
 
-- Ejercicio 1: Utilicemos polimorfismo.
-    - Escribamos Tests.
+- Ejercicio 1: Utilicemos polimorfismo y tell don't ask.
+    - Antes de comenzar a refactorizar, escribamos tests.
 - Ejercicio 2, Pasos a realizar:
     - Movamos la lectura del archivo csv a otra clase.
     - Mejoremos el for utizando el foreach.
     - Transformemos el método estático en método de instancia (agreguemos constructor e inicialicemos ahi).
     - Removamos código duplicado utilizando expresiones lambda.
     - Removamos las constantes duplicadas.
-- Ejercicio 3: Utilicemos polimorfismo y collecting parameters.
+- Ejercicio 3: Utilicemos polimorfismo y tell don't ask.
     - Escribamos tests. Hagamos lo mínimo para que nos permita testear. Por ejemplo, no usar *sysout*, retornar un
       *String* con el reporte. Esto nos permite asertar contra el valor de retorno.
     - Incorporemos la jerarquía de gastos para utilizar polimorfismo.
     - Apliquemos polimorfismo para eliminar el switch.
-    - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para el calculo del monto de
+    - Apliquemos polimorfismo para eliminar preguntar por el tipo para el calculo del monto de
       comida.
-    - Apliquemos polimorfismo (collecting parameter) para eliminar preguntar por el tipo para la marca de exceso.
+    - Apliquemos polimorfismo para eliminar preguntar por el tipo para la marca de exceso.
 - Ejercicio 4: Removamos el uso de *null*.
 
 El ejercicio 2 fue tomado de [lamchau](https://github.com/lamchau/refactoring-exercise).
