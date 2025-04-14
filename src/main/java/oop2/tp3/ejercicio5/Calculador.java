@@ -34,7 +34,6 @@ public class Calculador {
                 default:
                     throw new RuntimeException("Tipo de evento no conocido");
             }
-
             // creditos a ganar
             creditos += Math.max(actuacion.numberoEspectadores() - 30, 0);
             // creditos extras para comedia
