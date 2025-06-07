@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Cliente {
     private List<Alquiler> alquileres = new ArrayList<Alquiler>();
+    @SuppressWarnings("unused")
     private String name;
 
     public Cliente(String nombre) {
@@ -16,31 +17,13 @@ public class Cliente {
         double total = 0;
         int puntosAlquilerFrecuente = 0;
         for (Alquiler alquiler : alquileres) {
-            double monto = 0;
-// determine amounts for each line
-            switch (alquiler.copia().libro().codigoPrecio()) {
-                case Libro.REGULARES:
-                    monto += 2;
-                    if (alquiler.diasAlquilados() > 2)
-                        monto += (alquiler.diasAlquilados() - 2) * 1.5;
-                    break;
-                case Libro.NUEVO_LANZAMIENTO:
-                    monto += alquiler.diasAlquilados() * 3;
-                    break;
-                case Libro.INFANTILES:
-                    monto += 1.5;
-                    if (alquiler.diasAlquilados() > 3)
-                        monto += (alquiler.diasAlquilados() - 3) * 1.5;
-                    break;
-            }
-            total += monto;
+            // determine amounts for each line
+            alquiler.calcularMonto();
+            total += alquiler.copia().libro().calcularMonto(alquiler.diasAlquilados());
             // sumo puntos por alquiler
             puntosAlquilerFrecuente++;
             // bonus por dos días de alquiler de un nuevo lanzamiento
-            if ((alquiler.copia().libro().codigoPrecio() == Libro.NUEVO_LANZAMIENTO)
-                    && alquiler.diasAlquilados() > 1) {
-                puntosAlquilerFrecuente++;
-            }
+            puntosAlquilerFrecuente += alquiler.plusNuevoLanzamiento();
         }
         resultado[0] = total;
         resultado[1] = puntosAlquilerFrecuente;
